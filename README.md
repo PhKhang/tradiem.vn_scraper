@@ -1,5 +1,5 @@
 # tradiem.vn_scraper
-Muh grades
+But... Muh grades...
 
 ![screenshot](assets/IMG_20220119_194023.png)
 
