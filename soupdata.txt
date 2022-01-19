@@ -1,0 +1,138 @@
+200
+success!
+[<tr class="">
+<td class="">1</td>
+<td class="td_mon">Toán</td>
+<td>9.0</td>
+<td>8.0</td>
+<td>6.0</td>
+<td></td>
+<td class=""></td>
+<td class="">7.7</td>
+</tr>, <tr class="tr_mau">
+<td class="">2</td>
+<td class="td_mon">Vật lí</td>
+<td>6.0</td>
+<td>9.2</td>
+<td>7.3</td>
+<td></td>
+<td class=""></td>
+<td class="">7.5</td>
+</tr>, <tr class="">
+<td class="">3</td>
+<td class="td_mon">Hóa học</td>
+<td>9.0</td>
+<td>9.0</td>
+<td>9.0</td>
+<td></td>
+<td class=""></td>
+<td class="">9.0</td>
+</tr>, <tr class="tr_mau">
+<td class="">4</td>
+<td class="td_mon">Sinh học</td>
+<td>8.0</td>
+<td>10</td>
+<td>8.5</td>
+<td></td>
+<td class=""></td>
+<td class="">8.8</td>
+</tr>, <tr class="">
+<td class="">5</td>
+<td class="td_mon">Tin học</td>
+<td>10</td>
+<td>9.0</td>
+<td>9.0</td>
+<td></td>
+<td class=""></td>
+<td class="">9.3</td>
+</tr>, <tr class="tr_mau">
+<td class="">6</td>
+<td class="td_mon">Văn</td>
+<td>9.0</td>
+<td>10</td>
+<td>9.0</td>
+<td></td>
+<td class=""></td>
+<td class="">9.3</td>
+</tr>, <tr class="">
+<td class="">7</td>
+<td class="td_mon">Lịch Sử</td>
+<td>9.0</td>
+<td>9.0</td>
+<td>9.0</td>
+<td></td>
+<td class=""></td>
+<td class="">9.0</td>
+</tr>, <tr class="tr_mau">
+<td class="">8</td>
+<td class="td_mon">Địa Lí</td>
+<td>8.0</td>
+<td></td>
+<td></td>
+<td>9.5</td>
+<td class=""></td>
+<td class="">9.0</td>
+</tr>, <tr class="">
+<td class="">9</td>
+<td class="td_mon">Ngoại ngữ</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td class=""></td>
+<td class="">10</td>
+</tr>, <tr class="tr_mau">
+<td class="">10</td>
+<td class="td_mon">GDCD</td>
+<td>7.0</td>
+<td></td>
+<td></td>
+<td>10</td>
+<td class=""></td>
+<td class="">9.0</td>
+</tr>, <tr class="">
+<td class="">11</td>
+<td class="td_mon">Công nghệ</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>10</td>
+<td class="">8.0</td>
+<td class="">10</td>
+</tr>, <tr class="tr_mau">
+<td class="">12</td>
+<td class="td_mon">Thể dục</td>
+<td>Ð</td>
+<td>Ð</td>
+<td>Ð</td>
+<td></td>
+<td class=""></td>
+<td class="">Ð</td>
+</tr>, <tr class="">
+<td class="">13</td>
+<td class="td_mon">GD QP-AN</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td class=""></td>
+<td class="">10</td>
+</tr>, <tr class="tr_mau">
+<td class="">14</td>
+<td class="td_mon">Nghề</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td class=""></td>
+<td class=""></td>
+</tr>, <tr class="">
+<td class="">15</td>
+<td class="td_mon">Tự chọn</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td class=""></td>
+<td class=""></td>
+</tr>]
