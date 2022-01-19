@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # parser.add_argument('-n', type=int, nargs="?", default=0)
 # foo = int(parser.selectport[0])
 
-USERNAME = "0909570940"
+USERNAME = ""
 PASSWORD = "123"
 
 LOGIN_URL = "http://tradiem.vn/Account/Login"
