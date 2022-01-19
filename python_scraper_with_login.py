@@ -83,6 +83,8 @@ def main():
     print(soup.find_all("td", attrs={"class": "noborder"})[5].text, '\t',  soup.find_all("td", attrs={"class": "noborder"})[2].text, '\t', soup.find_all("td", attrs={"class": "noborder"})[4].text)
 
     #print(json.dumps(gdp_table_data[0].text))
+    
+    # Extract data
     for x in range(0, len(gdp_table_data)):
         for y in range(0, len(gdp_table_data[x].find_all('td'))):
             print(gdp_table_data[x].find_all('td')[y].text, end='\t')
