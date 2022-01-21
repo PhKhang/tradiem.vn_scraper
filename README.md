@@ -10,6 +10,6 @@ Could have made a public API so that I can display this on my website with Monke
 
 
 
-<img src="https://raw.githubusercontent.com/PhKhang/tradiem.vn_scraper/main/assets/first_update.png" width="400" >
-
 PS: Update coming soon.
+
+<img src="https://raw.githubusercontent.com/PhKhang/tradiem.vn_scraper/main/assets/first_update.png" width="400" >
